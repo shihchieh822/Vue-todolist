@@ -1,0 +1,7 @@
+#app {
+    padding: 100px;
+}
+
+.completed {
+    text-decoration: line-through
+}
